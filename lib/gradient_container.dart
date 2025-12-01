@@ -7,8 +7,12 @@ const Alignment endAlignment = Alignment.bottomCenter;
 
 class GradientContainer extends StatelessWidget {
   final Color c1, c2;
+
   const GradientContainer(this.c1, this.c2, {super.key});
 
+  const GradientContainer.yellow({super.key})
+    : c1 = const Color.fromARGB(255, 255, 243, 114),
+      c2 = const Color.fromARGB(255, 193, 179, 29);
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -19,7 +23,10 @@ class GradientContainer extends StatelessWidget {
           end: endAlignment,
         ),
       ),
-      child: Center(child: WelcomeText("Hello how r u?")),
+      child: Center(
+        child: Image.asset('assets/images/dice-1.png', width: 240),
+        //
+      ),
     ); // <--- ADD COMMA HERE
   }
 }
