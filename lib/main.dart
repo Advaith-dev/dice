@@ -4,9 +4,8 @@ import 'package:dice/gradient_container.dart';
 void main() {
   runApp(
     MaterialApp(
-      home: Scaffold(
-        body: GradientContainer.yellow(),
-      ),
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(body: GradientContainer.yellow()),
     ),
   );
 }
