@@ -18,9 +18,9 @@ Dice Roller is a simple yet elegant Flutter application that simulates rolling a
 
 Here are some screenshots of the app:
 
-![Dice 6](Screenshot_1764679628.png)
-![Dice 3](Screenshot_1764679632.png)
-![Dice 4](Screenshot_1764679635.png)
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|---|---|---|
+| ![Dice 6](Screenshot_1764679628.png) | ![Dice 3](Screenshot_1764679632.png) | ![Dice 4](Screenshot_1764679635.png) |
 
 ## Installation & Setup
 
