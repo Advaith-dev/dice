@@ -4,13 +4,12 @@ A Flutter app that generates random dice rolls with an animated, gradient-themed
 
 ## Project Description
 
-Dice Roller is a simple yet elegant Flutter application that simulates rolling a dice. The app features a beautiful gradient background, custom Google Fonts typography, and an interactive button to generate random dice values. It's a great beginner project for learning Flutter basics including state management, widgets, and styling.
+Dice Roller is a simple yet elegant Flutter application that simulates rolling a dice. The app features a beautiful gradient background and an interactive button to generate random dice values. It's a great beginner project for learning Flutter basics including state management, widgets, and styling.
 
 ## Features
 
 - 🎲 **Random Dice Roll Generator** - Tap a button to generate a random number between 1-6
 - 🎨 **Beautiful Gradient UI** - Gradient background that transitions from teal to blue
-- 🔤 **Custom Typography** - Uses Google Fonts (Lato) for enhanced text styling
 - ⚡ **Lightweight & Fast** - Minimal dependencies and optimized performance
 - 📱 **Cross-platform Support** - Works on iOS, Android, Web, Linux, macOS, and Windows
 
@@ -54,7 +53,6 @@ Here are some screenshots of the app:
 ## Dependencies
 
 - `flutter` - UI framework
-- `google_fonts: ^6.3.2` - Custom font library
 - `cupertino_icons: ^1.0.8` - iOS-style icons
 
 ## Project Structure
