@@ -1,5 +1,14 @@
 # Dice Roller
 
+```text
+  _____  _              _____       _ _
+ |  __ \(_)            |  __ \     | | |
+ | |  | |_  ___ ___    | |__) |___ | | | ___ _ __
+ | |  | | |/ __/ _ \   |  _  // _ \| | |/ _ \ '__|
+ | |__| | | (_|  __/   | | \ \ (_) | | |  __/ |
+ |_____/|_|\___\___|   |_|  \_\___/|_|_|\___|_|
+```
+
 A Flutter app that generates random dice rolls with an animated, gradient-themed user interface.
 
 ## Project Description
@@ -19,7 +28,7 @@ Here are some screenshots of the app:
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 |---|---|---|
-| ![Dice 6](Screenshot_1764679628.png) | ![Dice 3](Screenshot_1764679632.png) | ![Dice 4](Screenshot_1764679635.png) |
+| ![Dice 6](screenshots/Screenshot_1764679628.png) | ![Dice 3](screenshots/Screenshot_1764679632.png) | ![Dice 4](screenshots/Screenshot_1764679635.png) |
 
 ## Installation & Setup
 
